@@ -7,3 +7,5 @@
 [freecodecamp](https://medium.freecodecamp.org/)
 
 [kaggle](https://www.kaggle.com/)
+
+[dataquest: python learning for data science](https://www.dataquest.io)
